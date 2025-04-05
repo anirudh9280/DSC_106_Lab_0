@@ -1,0 +1,6 @@
+body {
+    /*
+    line height is 1.5 times the font size and the OI's UI font is used as the website font 
+    */
+    font:100%/1.5 system-ui;
+}
